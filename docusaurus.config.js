@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'El Blog de Yisus',
+  tagline: 'Crónicas de Experiencias, Ideas y Aventuras',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -31,8 +31,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'es',
+    locales: ['es'],
   },
 
   presets: [
@@ -56,9 +56,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Jesus Guzman',
+        title: 'Inicio',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'El Blog de Yisus',
           src: 'img/logo.svg',
         },
         items: [
@@ -74,7 +74,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Community',
+            title: 'Comunidad',
             items: [
               {
                 label: 'Stack Overflow',
@@ -91,7 +91,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Mas',
             items: [
               {
                 label: 'Blog',
@@ -104,7 +104,8 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `<p xmlns:cc="http://creativecommons.org/ns#" >© ${new Date().getFullYear()} Este trabajo está bajo licencia <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a>
+        Construido con Docusaurus.</p>`,
       },
       prism: {
         theme: prismThemes.github,
