@@ -7,3 +7,13 @@ derecho:
   label: Derecho
   permalink: /derecho
   description: Pensamientos de Derecho
+
+mejor-version:
+  label: Mejor Versión
+  permalink: /mejor-version
+  description: Construyendo una mejor versión de mi mismo
+
+reflexiones:
+  label: Reflexiones
+  permalink: /reflexiones
+  description: Pensamientos de la vida
