@@ -7,6 +7,8 @@ tags: [derecho]
 
 Ayer, mientras recibía la clase de Criminología en la universidad, el licenciado del curso mencionó la frase "El Estado me venció". Es una frase que me pareció bastante fuerte y que me dejó pensativo, ya que la tomé como un golpe de realidad y algo que podría llegar a sucederme también.
 
+<!-- truncate -->
+
 El licenciado pronunció esta frase después de que un compañero de clase le preguntara qué podíamos hacer para solucionar los problemas políticos del país. La pregunta surgió tras analizar algunos casos de corrupción actuales y observar cómo el sistema funciona de manera ineficiente ante estos casos. La pregunta era simple, pero la respuesta resultaba muy compleja.
 
 El licenciado respondió que lo que podíamos hacer era estudiar lo más que pudiéramos para estar lo mejor preparados posible. Sin embargo, luego comentó que ese era el camino que él había tomado en sus inicios, y que había llegado a la conclusión de que el mismo Estado corrupto, junto con el poder económico, no permiten que las cosas que realmente beneficiarían al país sucedan, ya que de alguna forma les perjudicaría a ellos. Fue entonces cuando pronunció la frase "El Estado me venció", haciendo alusión a sus buenos intentos de cambiar la situación del país y a su fracaso en lograrlos.
