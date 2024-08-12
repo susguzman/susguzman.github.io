@@ -2,3 +2,8 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+derecho:
+  label: Derecho
+  permalink: /derecho
+  description: Pensamientos de Derecho
